@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Validate the SOFA C functions": {
+      "commandName": "Project",
+      "commandLineArgs": "verbose"
+    }
+  }
+}
